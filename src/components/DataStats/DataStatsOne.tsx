@@ -38,7 +38,7 @@ const dataStatsList = [
         stroke-width="2"
         stroke-linecap="round"
         stroke-linejoin="round"
-        class="lucide lucide-loader"
+        className="lucide lucide-loader"
       >
         <path d="M12 2v4" />
         <path d="m16.2 7.8 2.9-2.9" />
@@ -67,7 +67,7 @@ const dataStatsList = [
         stroke-width="2"
         stroke-linecap="round"
         stroke-linejoin="round"
-        class="lucide lucide-check-check"
+        className="lucide lucide-check-check"
       >
         <path d="M18 6 7 17l-5-5" />
         <path d="m22 10-7.5 7.5L13 16" />
